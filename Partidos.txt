@@ -1,0 +1,4 @@
+2026-04-01,Millonarios,SantaFe,2,1
+2026-04-01,AtleticoNacional,Junior,1,1
+2026-04-08,SantaFe,Junior,0,2
+2026-04-08,Millonarios,AtleticoNacional,3,0

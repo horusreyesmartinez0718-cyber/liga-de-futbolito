@@ -1,0 +1,11 @@
+# Configuración de la liga
+liga=Liga Colombiana
+puntos_victoria=3
+puntos_empate=1
+puntos_derrota=0
+
+# Equipos (claramente el más importante primero 💙)
+equipo=Millonarios
+equipo=SantaFe
+equipo=AtleticoNacional
+equipo=Junior

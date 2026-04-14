@@ -1,0 +1,11 @@
+JORNADA=1
+FECHA=2026-04-01
+Millonarios 2 - 1 SantaFe
+AtleticoNacional 1 - 1 Junior
+FIN_JORNADA
+
+JORNADA=2
+FECHA=2026-04-08
+SantaFe 0 - 2 Junior
+Millonarios 3 - 0 AtleticoNacional
+FIN_JORNADA
