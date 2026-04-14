@@ -8,7 +8,7 @@
 using namespace std;
 
 // =======================
-// ESTRUCTURAS
+// ESTRUCTURASSSS
 // =======================
 
 // Aquí guardo la config de la liga (todo viene del archivo)
@@ -38,7 +38,7 @@ struct Equipo {
 };
 
 // =======================
-// ARCHIVOS
+// ARCHIVOSSSSS
 // =======================
 
 // Leo el config.txt (si falla, muere el programa, no hay liga sin config)
@@ -315,7 +315,7 @@ void mostrarPartidos(vector<Partido> partidos) {
 }
 
 // =======================
-// MAIN
+// MAINNNN
 // =======================
 
 int main() {
